@@ -271,3 +271,5 @@ http://190.217.20.100:10800/play/a055/index.m3u8
 http://190.217.20.100:10800/play/a008/index.m3u8
 #EXTINF:-1,Zoom
 http://190.217.20.100:10800/play/a02y/index.m3u8
+#EXTINF:-1,Win
+http://181.119.67.75:16123/play/a041
